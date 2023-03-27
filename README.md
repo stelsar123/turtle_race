@@ -1,2 +1,3 @@
-# turtle_race
-A simple game build with tkinter and turtle Python libraries. For educational use and for fun :)
+# Acknowledgments 
+
+Based on the [repository](https://github.com/techwithtim/Tetris-Game) of @techwithtim 
